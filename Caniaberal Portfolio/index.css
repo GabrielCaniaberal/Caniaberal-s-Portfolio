@@ -1,0 +1,24 @@
+	h1{
+		background-color: grey;
+		padding: 50px;		
+	}
+	body{
+		background-color: silver;	
+	}
+	p{
+		font-family: Arial, Helvetica, sans-serif;		
+	}
+	h1, h2{
+		font-family: Monospace;
+	}
+	a:hover{
+		background-color: grey;
+			
+		
+	}
+	
+	
+	#yes{
+		margin-left: 350px;
+		margin-right: 350px;
+	}
